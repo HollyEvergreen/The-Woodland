@@ -1,0 +1,1 @@
+# TLDR: The name given to the parallel dimension alongside [[astra magus]] that contains the lost man's country of [[meijin]] and is made up of many hundreds of levels and containing dangers unknown beyond the god's wildest imaginations

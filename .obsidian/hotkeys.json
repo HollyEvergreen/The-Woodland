@@ -1,0 +1,18 @@
+{
+  "audio-recorder:stop": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad9"
+    }
+  ],
+  "audio-recorder:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad8"
+    }
+  ]
+}

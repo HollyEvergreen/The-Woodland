@@ -1,0 +1,1 @@
+# TLDR: The Gate is the name for the large stone monolith used to travel between [[Midgard]] and the [[Underlands]]
